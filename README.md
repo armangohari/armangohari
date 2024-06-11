@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Arman Gohari</h1>
-  <a href="https://armangohari.com">🌐armangohari.com</a>
   
+  [![Website](https://img.shields.io/badge/armangohari.com-white)](https://armangohari.com)
+
   ## _About Me_
   
   Front-end Developer |  A.I. Researcher | Crypto Trader | Psychology Enthusiast | Art & Design Admirer | Resolute Learner | Curious
@@ -29,4 +30,12 @@
   
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-111?style=for-the-badge&logo=notion&logoColor=white)
+
+  ## _Contacts_
+  [![Email](https://img.shields.io/badge/hello@armangohari.com-222)](mailto:hello@armangohari.com)
+
+  ## _Social Media_
+  [![Linkedin](https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArmanGohari)
+  [![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ArmanGohari)
+  [![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ArmaniGohari)
 </div>
