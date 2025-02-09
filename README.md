@@ -5,7 +5,7 @@
 
   ## _About Me_
   
-  Front-end Developer |  A.I. Researcher | Crypto Trader | Psychology Enthusiast | Art & Design Admirer | Resolute Learner | Curious
+  Full-stack Developer | UI/UX Designer | A.I. Researcher | Crypto Trader | Psychology Enthusiast | Art & Design Admirer | Resolute Learner | Curious
 
   ## _Tech-Stack & Tools_
   
