@@ -15,12 +15,12 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-ffde57.svg?style=for-the-badge&logo=python&logoColor=4584b6)
   
-  ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React.js](https://img.shields.io/badge/react-111?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
   ![Next.js](https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js&logoColor=#00DC82)
   
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![ShadCN/ui](https://img.shields.io/badge/ShadCN/ui-black.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 
   ![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
