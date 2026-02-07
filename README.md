@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="./assets/jpg" width="100%" alt="particle wave banner"/>
+<img src="./banner.jpg" width="100%" alt="particle wave banner"/>
 
 # Arman Gohari
 
