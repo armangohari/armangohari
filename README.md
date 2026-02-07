@@ -1,43 +1,107 @@
 <div align="center">
-  <h1>Arman Gohari</h1>
-  
-  [![Website](https://img.shields.io/badge/armangohari.com-white)](https://armangohari.com)
 
-  ## _About Me_
-  
-  Full-stack Developer | UI/UX Designer | A.I. Researcher | Crypto Trader | Psychology Enthusiast | Art & Design Admirer | Resolute Learner | Curious
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 
-  ## _Tech-Stack & Tools_
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-444?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-ffde57.svg?style=for-the-badge&logo=python&logoColor=4584b6)
-  
-  ![React.js](https://img.shields.io/badge/react-111?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-  ![Next.js](https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js&logoColor=#00DC82)
-  
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![ShadCN/ui](https://img.shields.io/badge/ShadCN/ui-black.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+# Arman Gohari
 
-  ![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=00F566)
-  
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  
-  ![Figma](https://img.shields.io/badge/figma-E52965?style=for-the-badge&logo=figma&logoColor=white)
-  ![Notion](https://img.shields.io/badge/notion-111?style=for-the-badge&logo=notion&logoColor=white)
+**Founder & Full-Stack Engineer**
 
-  ## _Contacts_
-  [![Email](https://img.shields.io/badge/hello@armangohari.com-222)](mailto:hello@armangohari.com)
+*Building AI-driven products that solve complex human challenges.*
 
-  ## _Social Media_
-  [![Linkedin](https://img.shields.io/badge/Linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArmanGohari)
-  [![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ArmanGohari)
-  [![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ArmaniGohari)
+[![Website](https://img.shields.io/badge/armangohari.com-000?style=flat&logo=safari&logoColor=white)](https://armangohari.com)
+[![Email](https://img.shields.io/badge/hello@armangohari.com-000?style=flat&logo=gmail&logoColor=white)](mailto:hello@armangohari.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArmanGohari)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat&logo=telegram&logoColor=white)](https://telegram.me/ArmanGohari)
+
+</div>
+
+---
+
+### About
+
+Visionary entrepreneur with a proven track record of launching AI-driven products from concept to market.  
+Currently **Founder & CPO/CTO** of a mental health startup, architecting technology around a proprietary knowledge graph to deliver personalized, accessible wellness solutions.
+
+I combine deep technical expertise with strategic product thinking—whether it's crafting human-centric AI chat experiences, leading cross-functional teams, or translating complex business challenges into scalable software.
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/shadcn/ui-000?style=flat&logo=shadcnui&logoColor=white)
+
+**Backend & Data**
+
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat&logo=arangodb&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+### Featured Work
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Aramito](https://armangohari.com)** | AI-powered mental health platform with personalized therapy matching via knowledge graphs | Next.js · Gemini · ArangoDB |
+| **[armangohari.com](https://armangohari.com)** | Personal portfolio showcasing identity and competencies | Next.js · TailwindCSS |
+| **[BayanPaint](https://bayanpaint.com)** | Corporate landing page for a leading Iranian paint manufacturer | React · Vite |
+| **[Almastalayi](https://almastalayi.ir)** | Autonomous crypto trading platform executing strategies via BingX API | Python · MongoDB · React |
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=armangohari&theme=github-light&hide_border=true&area=true" width="95%" alt="activity"/>
+
+</div>
+
+---
+
+### Beyond Code
+
+```
+🧠 Interests    → AI · Behavioral Psychology · Neuroscience · Stoic Philosophy
+💪 Training     → Strength Training · Systems Thinking
+📈 Markets      → Algorithmic Trading · Blockchain · Financial Markets
+🌐 Languages    → English (Proficient) · Persian (Native)
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+
+*"Leveraging technology to solve complex human challenges."*
+
 </div>
