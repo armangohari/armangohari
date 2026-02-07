@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="./banner.jpg" width="100%" alt="particle wave banner"/>
+<!-- HEADER BANNER - Dynamic Particle Wave Animation -->
+<img src="https://media.giphy.com/media/xUOxfkZEidKEOmxkaI/giphy.gif" width="100%" alt="particle wave banner"/>
 
 # Arman Gohari
 
@@ -70,23 +70,10 @@ I combine deep technical expertise with strategic product thinking—whether it'
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Aramito](https://www.aramito.com)** | AI-powered mental health platform with personalized therapy matching via knowledge graphs | Next.js · Gemini · ArangoDB |
+| **[Aramito](https://www.aramito.com)** | AI-powered mental health platform with personalized therapy matching via knowledge graphs | Next.js · ArangoDB |
 | **[Arman Gohari Portfolio](https://www.armangohari.com)** | Personal portfolio showcasing identity and competencies | Next.js · TailwindCSS |
 | **BayanPaint** | Corporate landing page for a leading Iranian paint manufacturer | React · Vite |
 | **Almastalayi** | Autonomous crypto trading platform executing strategies via BingX API | Python · MongoDB · React |
-
----
-
-### Open Source
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-★2-181717?style=flat&logo=github)](https://github.com/armangohari/arman-gohari-portfolio-website)
-[![Book Reader](https://img.shields.io/badge/Book_Reader_App-★2-181717?style=flat&logo=github)](https://github.com/armangohari/book-reader-expo-frontend)
-[![Binance Chart](https://img.shields.io/badge/Realtime_Volume_Chart-🔀1-181717?style=flat&logo=github)](https://github.com/armangohari/binance-realtime-volume-chart)
-[![Next.js Template](https://img.shields.io/badge/Next.js_Template-★1-181717?style=flat&logo=github)](https://github.com/armangohari/my-next-app-template)
-
-</div>
 
 ---
 
