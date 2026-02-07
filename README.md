@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER BANNER - Dynamic Particle Wave Animation -->
-<img src="https://media.giphy.com/media/xUOxfkZEidKEOmxkaI/giphy.gif" width="100%" alt="particle wave banner"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 
 # Arman Gohari
 
@@ -89,6 +89,8 @@ I combine deep technical expertise with strategic product thinking—whether it'
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
 
 *"Leveraging technology to solve complex human challenges."*
 
