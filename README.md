@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="./assets/jpg" width="100%" alt="particle wave banner"/>
 
 # Arman Gohari
 
@@ -70,18 +70,21 @@ I combine deep technical expertise with strategic product thinking—whether it'
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[Aramito](https://armangohari.com)** | AI-powered mental health platform with personalized therapy matching via knowledge graphs | Next.js · Gemini · ArangoDB |
-| **[armangohari.com](https://armangohari.com)** | Personal portfolio showcasing identity and competencies | Next.js · TailwindCSS |
-| **[BayanPaint](https://bayanpaint.com)** | Corporate landing page for a leading Iranian paint manufacturer | React · Vite |
-| **[Almastalayi](https://almastalayi.ir)** | Autonomous crypto trading platform executing strategies via BingX API | Python · MongoDB · React |
+| **[Aramito](https://www.aramito.com)** | AI-powered mental health platform with personalized therapy matching via knowledge graphs | Next.js · Gemini · ArangoDB |
+| **[Arman Gohari Portfolio](https://www.armangohari.com)** | Personal portfolio showcasing identity and competencies | Next.js · TailwindCSS |
+| **BayanPaint** | Corporate landing page for a leading Iranian paint manufacturer | React · Vite |
+| **Almastalayi** | Autonomous crypto trading platform executing strategies via BingX API | Python · MongoDB · React |
 
 ---
 
-### GitHub Activity
+### Open Source
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armangohari&theme=github-light&hide_border=true&area=true" width="95%" alt="activity"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-★2-181717?style=flat&logo=github)](https://github.com/armangohari/arman-gohari-portfolio-website)
+[![Book Reader](https://img.shields.io/badge/Book_Reader_App-★2-181717?style=flat&logo=github)](https://github.com/armangohari/book-reader-expo-frontend)
+[![Binance Chart](https://img.shields.io/badge/Realtime_Volume_Chart-🔀1-181717?style=flat&logo=github)](https://github.com/armangohari/binance-realtime-volume-chart)
+[![Next.js Template](https://img.shields.io/badge/Next.js_Template-★1-181717?style=flat&logo=github)](https://github.com/armangohari/my-next-app-template)
 
 </div>
 
@@ -99,8 +102,6 @@ I combine deep technical expertise with strategic product thinking—whether it'
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
 
 *"Leveraging technology to solve complex human challenges."*
 
